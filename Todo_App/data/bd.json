@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Almonds, Unsalted, in the blue bag"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Pizza"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "Cookies"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "DrumStick"
+    },
+    {
+      "id": 7,
+      "checked": true,
+      "item": "Chocolate Bar"
+    },
+    {
+      "id": 8,
+      "checked": true,
+      "item": "DrumStick"
+    },
+    {
+      "id": 9,
+      "checked": true,
+      "item": "Mutton"
+    }
+  ]
+}

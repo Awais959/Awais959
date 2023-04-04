@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2023 11:17:36 AM",
+      "body": "Instead of upgrading and updating all of your code at once (which is incredibly difficult and prone to bugs), the backwards compatibility package enables you to upgrade one component, one hook, and one route at a time by running both v5 and v6 in parallel. Any code you haven't touched is still running the very same code it was before"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 01, 2023 11:17:36 AM",
+      "body": "Instead of upgrading and updating all of your code at once (which is incredibly difficult and prone to bugs), the backwards compatibility package enables you to upgrade one component, one hook, and one route at a time by running both v5 and v6 in parallel. Any code you haven't touched is still running the very same code it was before"
+    },
+    {
+      "id": 5,
+      "title": "Today's Post",
+      "datetime": "March 26, 2023 1:12:06 PM",
+      "body": "Watching react tutorial by Dave Gray."
+    },
+    {
+      "id": 6,
+      "title": "Today's Second Post",
+      "datetime": "March 26, 2023 1:13:52 PM",
+      "body": "Checking post data in response."
+    },
+    {
+      "id": 7,
+      "title": "My Today's Third Post",
+      "datetime": "March 26, 2023 3:46:32 PM",
+      "body": "Checking post dependency in useeffect hook."
+    }
+  ]
+}
